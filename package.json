@@ -1,0 +1,23 @@
+{
+  "name": "orders-incoming",
+  "version": "1.0.0",
+  "description": "orders, order, incoming, coming in.... etc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verillospur/orders-incoming.git"
+  },
+  "author": "BS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/verillospur/orders-incoming/issues"
+  },
+  "homepage": "https://github.com/verillospur/orders-incoming#readme",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "mongodb": "^3.6.3"
+  }
+}
