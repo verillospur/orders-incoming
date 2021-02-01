@@ -1,0 +1,24 @@
+orders-incoming
+~~~~~~~~~~~~~~~
+
+import format:
+
+Vendor name:
+Telegram Username:
+WhatsApp number:
+Sent:
+Expected:
+Total:
+Items: 
+
+
+
+e.g.:
+
+Vendor name: Tulip
+Telegram Username: @tulip_miss
+WhatsApp number: +44 7979 646464
+Sent: 2021-02-02
+Expected: 2021-02-04
+Total: £78
+Items: item 1, item 2, item 3
